@@ -1,1 +1,45 @@
+# =========================
+# Juegos online generales
+# =========================
+minijuegos.com
+poki.com
+crazygames.com
+juegos.com
+1001juegos.com
+friv.com
+y8.com
+armorgames.com
+kongregate.com
 
+# =========================
+# Plataformas con juegos integrados
+# =========================
+roblox.com
+store.steampowered.com
+epicgames.com
+battle.net
+origin.com
+
+# =========================
+# Juegos móviles / casual
+# =========================
+agar.io
+slither.io
+paper-io.com
+krunker.io
+shellshock.io
+
+# =========================
+# Juegos educativos (opcional bloquear)
+# =========================
+coolmathgames.com
+mathplayground.com
+
+# =========================
+# Distracciones frecuentes
+# =========================
+twitch.tv
+kick.com
+discord.com
+reddit.com
+9gag.com
