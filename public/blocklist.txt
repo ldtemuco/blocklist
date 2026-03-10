@@ -21,6 +21,8 @@ battle.net
 origin.com
 minecraft.com
 g.deev.is
+nite.games
+mathify.top
 
 # =========================
 # Juegos móviles / casual
