@@ -5,8 +5,10 @@ armorgames.com
 battle.net
 coolmathgames.com
 crazygames.com
+dailymotion.com
 discord.com
 epicgames.com
+funhtml5games.com
 fr9.es
 friv.com
 g.deev.is
@@ -36,3 +38,4 @@ tiktok.com
 twitch.tv
 whatsapp.com
 y8.com
+youtube.com
