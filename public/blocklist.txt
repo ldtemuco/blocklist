@@ -1,54 +1,37 @@
-# =========================
-# Juegos online generales
-# =========================
-minijuegos.com
-poki.com
-crazygames.com
-juegos.com
 1001juegos.com
-friv.com
-y8.com
-armorgames.com
-kongregate.com
-retrogames.onl
-retrogames.cc
-
-# =========================
-# Plataformas con juegos integrados
-# =========================
-roblox.com
-store.steampowered.com
-epicgames.com
-battle.net
-origin.com
-minecraft.com
-g.deev.is
-nite.games
-mathify.top
-
-# =========================
-# Juegos móviles / casual
-# =========================
-agar.io
-slither.io
-paper-io.com
-krunker.io
-shellshock.io
-
-# =========================
-# Juegos educativos
-# =========================
-coolmathgames.com
-mathplayground.com
-
-# =========================
-# Distracciones frecuentes
-# =========================
-twitch.tv
-kick.com
-discord.com
-reddit.com
 9gag.com
+agar.io
+armorgames.com
+battle.net
+coolmathgames.com
+crazygames.com
+discord.com
+epicgames.com
+friv.com
+g.deev.is
+juegos.com
+kick.com
+kongregate.com
+krunker.io
+mathify.top
+mathplayground.com
+minecraft.com
+minecraft.net
+minecraftforfreex.com
+minijuegos.com
+nite.games
 ome.tv
+origin.com
+paper-io.com
+poki.com
+reddit.com
+retrogames.cc
+retrogames.onl
+roblox.com
+shellshock.io
+slither.io
+store.steampowered.com
 tiktok.com
+twitch.tv
 whatsapp.com
+y8.com
