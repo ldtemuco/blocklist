@@ -1,5 +1,4 @@
-google.*
-*.google.com
+*.google.*
 *.gstatic.com
 *.googleusercontent.com
 *.googleapis.com
