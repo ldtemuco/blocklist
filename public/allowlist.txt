@@ -1,1 +1,13 @@
+google.*
+*.google.com
+*.gstatic.com
+*.googleusercontent.com
+*.googleapis.com
+*.wikipedia.org
+*.wikimedia.org
+*.w3schools.com
+*.meteored.*
+appoderado.*
+*.appoderado.*
+draw.io
 
