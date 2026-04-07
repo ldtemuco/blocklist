@@ -2,7 +2,7 @@
 *.gitlab.com.*
 *.github.*
 *.pastebin.*
-accounts.google.com
+accounts.google.*
 mail.google.*
 drive.google.*
 classroom.google.*
