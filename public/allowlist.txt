@@ -1,3 +1,4 @@
+*.pastebin.*
 *.google.*
 *.gstatic.com
 *.googleusercontent.com
