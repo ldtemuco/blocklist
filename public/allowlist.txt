@@ -1,3 +1,4 @@
+*.github.*
 *.pastebin.*
 *.google.*
 *.gstatic.com
