@@ -1,3 +1,5 @@
+
+*.gitlab.com.*
 *.github.*
 *.pastebin.*
 *.google.*
