@@ -2,7 +2,7 @@
 *.gitlab.com.*
 *.github.*
 *.pastebin.*
-*.google.*
+google.*
 *.gstatic.com
 *.googleusercontent.com
 *.googleapis.com
