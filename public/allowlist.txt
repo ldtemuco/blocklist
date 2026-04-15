@@ -14,3 +14,4 @@ appoderado.*
 *.appoderado.*
 draw.io
 *.canva.*
+*.normaelectrica.*
