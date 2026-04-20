@@ -1,3 +1,5 @@
+*.mineduc.*
+*.agenciaeducacion.*
 *.google.com/maps/*
 *.gitlab.com.*
 *.github.*
