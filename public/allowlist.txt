@@ -1,3 +1,11 @@
+*.freepik.*
+*.shutterstock.com
+*.clipartmax.com
+*.istockphoto.com
+*.flaticon.es
+*.imgur.*
+*.adobe.*
+*.remove.bg
 *.mineduc.*
 *.agenciaeducacion.*
 *.google.com/maps/*
