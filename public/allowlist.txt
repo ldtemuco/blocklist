@@ -1,3 +1,6 @@
+copilot.microsoft.com
+copilot.fun
+*.chatgpt.*
 *.freepik.*
 *.shutterstock.com
 *.clipartmax.com
