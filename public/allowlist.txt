@@ -1,5 +1,6 @@
 copilot.microsoft.com
 copilot.fun
+auth.openai.com
 *.chatgpt.*
 *.freepik.*
 *.shutterstock.com
