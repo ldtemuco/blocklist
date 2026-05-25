@@ -1,6 +1,16 @@
 copilot.microsoft.com
 copilot.fun
-auth.openai.com
+chat.openai.*
+auth.openai.*
+openai.*
+api.openai.*
+cdn.oaistatic.*
+oaiusercontent.*
+*.openai.*
+*.chatgpt.*
+*.oaistatic.*
+*.cdn.cloudflare.*
+openaiapi-site.azureedge.*
 *.chatgpt.*
 *.freepik.*
 *.shutterstock.com
