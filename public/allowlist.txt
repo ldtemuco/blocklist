@@ -1,3 +1,4 @@
+*.layoutit.com
 *.claude.*
 api.anthropic.*
 *.anthropic.*
