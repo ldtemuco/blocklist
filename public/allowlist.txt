@@ -1,3 +1,5 @@
+*.wokwi.com
+*.wokwi.github.io
 *.layoutit.com
 *.claude.*
 api.anthropic.*
