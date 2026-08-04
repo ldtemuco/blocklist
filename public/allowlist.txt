@@ -1,3 +1,4 @@
+*.test
 *.wokwi.com
 *.wokwi.github.io
 *.layoutit.com
