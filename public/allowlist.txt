@@ -1,3 +1,8 @@
+pinimg.*
+pin.*
+pinterest.net
+pinterest.*
+pinterestmail.*
 127.0.0.1*
 pastebin.*
 localhost*
