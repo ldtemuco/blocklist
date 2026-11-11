@@ -1,6 +1,6 @@
 pinimg.*
 pin.*
-pinterest.*
+*.pinterest.*
 pinterestmail.*
 127.0.0.1*
 pastebin.*
