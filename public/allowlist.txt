@@ -1,4 +1,5 @@
 127.0.0.1*
+pastebin.*
 localhost*
 *.test
 *.wokwi.com
