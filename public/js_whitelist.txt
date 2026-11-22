@@ -1,2 +1,13 @@
-google.com
-google.cl
+*.google.*
+*.google.com.*
+*.google.co.*
+*.gstatic.com
+*.googleapis.com
+*.googleusercontent.com
+*.ggpht.com
+*.youtube.com
+*.youtu.be
+*.ytimg.com
+*.googlevideo.com
+*.youtube-nocookie.com
+*.recaptcha.net
