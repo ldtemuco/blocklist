@@ -1,3 +1,10 @@
+# Google Games — bloqueo selectivo para Firefox ESR 2.1.0.
+# Una regla por línea; NO utilizar con la extensión 2.0.0 porque no reconoce @google-games.
+# Google Search sigue funcionando. El bloqueo no garantiza cubrir futuras versiones de Google.
+
+# BLOQUEAR PANEL DE JUEGOS DEL BUSCADOR GOOGLE
+@google-games
+
 # Snake, Solitaire, Minesweeper, Block Breaker, Tic-Tac-Toe y Memory Game
 https://*.google.*/fbx?*fbx=snake_arcade*
 https://*.google.co.*/fbx?*fbx=snake_arcade*
