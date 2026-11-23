@@ -1,0 +1,3 @@
+https://*.google.*/fbx?fbx=snake_arcade*
+https://*.google.co.*/fbx?fbx=snake_arcade*
+https://*.google.*/logos/2010/pacman10-hp.html
