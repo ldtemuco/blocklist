@@ -1,5 +1,74 @@
-https://*.google.*/fbx?fbx=snake_arcade*
-https://*.google.*/fbx?fbx=solitarie*
-https://*.google.co.*/fbx?fbx=snake_arcade*
-https://*.google.co.*/fbx?fbx=solitarie*
-https://*.google.*/logos/2010/pacman10-hp.html
+# Snake, Solitaire, Minesweeper, Block Breaker, Tic-Tac-Toe y Memory Game
+https://*.google.*/fbx?*fbx=snake_arcade*
+https://*.google.co.*/fbx?*fbx=snake_arcade*
+https://*.google.*/fbx?*fbx=solitaire*
+https://*.google.co.*/fbx?*fbx=solitaire*
+https://*.google.*/fbx?*fbx=minesweeper*
+https://*.google.co.*/fbx?*fbx=minesweeper*
+https://*.google.*/fbx?*fbx=block_breaker*
+https://*.google.co.*/fbx?*fbx=block_breaker*
+https://*.google.*/fbx?*fbx=tic_tac_toe*
+https://*.google.co.*/fbx?*fbx=tic_tac_toe*
+https://*.google.*/fbx?*fbx=memory_game*
+https://*.google.co.*/fbx?*fbx=memory_game*
+
+# Color Tiles y Tic-Tac-Go: posible lanzamiento directo; el panel se oculta con @google-games
+https://*.google.*/fbx?*fbx=color_tiles*
+https://*.google.co.*/fbx?*fbx=color_tiles*
+https://*.google.*/fbx?*fbx=tic_tac_go*
+https://*.google.co.*/fbx?*fbx=tic_tac_go*
+
+# Juegos incrustados y Solitaire
+https://*.google.*/logos/fnbx/*
+https://*.google.co.*/logos/fnbx/*
+
+# PAC-MAN
+https://*.google.*/logos/2010/pacman10-*
+https://*.google.co.*/logos/2010/pacman10-*
+
+# Baseball
+https://*.google.*/logos/2019/july4th19/*
+https://*.google.co.*/logos/2019/july4th19/*
+
+# Garden Gnomes
+https://*.google.*/logos/2018/gnomes/*
+https://*.google.co.*/logos/2018/gnomes/*
+
+# Popcorn
+https://*.google.*/logos/2024/popcorn/*
+https://*.google.co.*/logos/2024/popcorn/*
+
+# Champion Island
+https://*.google.*/logos/2020/kitsune/*
+https://*.google.co.*/logos/2020/kitsune/*
+
+# Cricket
+https://*.google.*/logos/2017/cricket17/*
+https://*.google.co.*/logos/2017/cricket17/*
+
+# Jerry Lawson
+https://*.google.*/logos/2022/lawson/*
+https://*.google.co.*/logos/2022/lawson/*
+
+# Pony Express
+https://*.google.*/logos/2015/ponyexpress/*
+https://*.google.co.*/logos/2015/ponyexpress/*
+
+# Halloween: distintas ediciones
+https://*.google.*/logos/*/halloween*/*
+https://*.google.co.*/logos/*/halloween*/*
+
+# Petanque
+https://*.google.*/logos/2021/petanque/*
+https://*.google.co.*/logos/2021/petanque/*
+
+# Half Moon
+https://*.google.*/logos/2024/moon/*
+https://*.google.co.*/logos/2024/moon/*
+
+# Pani Puri
+https://*.google.*/logos/2023/panipuri/*
+https://*.google.co.*/logos/2023/panipuri/*
+
+# Dominio adicional para juegos diarios de Google; puede afectar otros juegos de ese portal:
+dailygames.discover.google.com
